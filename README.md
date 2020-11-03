@@ -1,4 +1,4 @@
-# tf<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en"><head>
 <title>three.js webgl Geometrik figures</title>
 <meta charset="utf-8">
